@@ -30,6 +30,15 @@
 2. 输入有效的 **激活码**
 3. 点击确认，切换为自定义 CPA 配置
 
+### 4.插件安装方法
+下载 xiaoxin-keygen.zip​ 文件
+打开浏览器，进入扩展程序管理页面：
+chrome://extensions/   (Chrome)
+edge://extensions/     (Edge)
+开启 开发者模式（右上角开关）
+直接将 xiaoxin-keygen.zip​ 文件拖入页面
+点击确认安装，即可完成
+
 ---
 
 ## 🔑 获取激活码
